@@ -1,1 +1,1 @@
-Check out [https://github.com/vacuumlabs/zsh-git-customization/wiki](wiki).
+Check out [Wiki](https://github.com/vacuumlabs/zsh-git-customization/wiki).
